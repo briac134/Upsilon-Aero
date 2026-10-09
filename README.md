@@ -16,7 +16,7 @@ This theme is based on the Omega/Upsilon theme system developed for Omega/Upsilo
 
 The original theme documentation can be found in the Omega repository:
 
-https://github.com/Omega-Numworks/Omega/blob/b06f3a1be574ea42374cc5f60500970e7564290f/themes/README.md
+https://github.com/Omega-Numworks/Omega/tree/master/themes/README.md
 
 # Credits
 Omega / Omega-Themes --- original theme engine and omega_dark base.
