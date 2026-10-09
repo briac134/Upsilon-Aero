@@ -1,0 +1,150 @@
+{
+    "name": "Frutiger Aero",
+    "icons": "frutiger_aero",
+    "colors": {
+        "PrimaryText": "16425b",
+        "SecondaryText": "527d91",
+        "AccentText": "087e8b",
+        "ApproximateSignText": "527d91",
+        "ApproximateExpressionText": "527d91",
+        "Background": {
+            "Hard": "f4fcff",
+            "Apps": "e7f7fb",
+            "AppsSecondary": "c9eaf2"
+        },
+        "Toolbar": {
+            "": "168aad",
+            "Text": "ffffff"
+        },
+        "ExpressionInput": {
+            "Background": "ffffff",
+            "Border": "91d7e3"
+        },
+        "Grid": {
+            "PrimaryLine": "91d7e3",
+            "SecondaryLine": "dff5f7"
+        },
+        "Battery": {
+            "": "ffffff",
+            "InCharge": "8bd450",
+            "Low": "e85d75"
+        },
+        "ScrollBar": {
+            "Foreground": "55a8b8",
+            "Background": "c9eaf2"
+        },
+        "Control": {
+            "": "168aad",
+            "Enabled": "168aad",
+            "Disabled": "8caeba"
+        },
+        "Calculation": {
+            "BackgroundOdd": "e7f7fb",
+            "BackgroundEven": "ffffff",
+            "EmptyBox": "d8f0f3",
+            "EmptyBoxNeeded": "8bd450",
+            "TrigoAndComplexForeground": "d1495b"
+        },
+        "Code": {
+            "Background": "ffffff",
+            "BackgroundSelected": "bdeaf0",
+            "Text": "16425b",
+            "Comment": "527d91",
+            "Number": "087e8b",
+            "Keyword": "d1495b",
+            "Operator": "b23a48",
+            "String": "176b87",
+            "GutterViewBackground": "dff5f7"
+        },
+        "Probability": {
+            "Curve": "168aad",
+            "CellBorder": "91d7e3",
+            "HistogramBar": "55b8a9"
+        },
+        "Statistics": {
+            "Box": "168aad",
+            "BoxVerticalLine": "91d7e3",
+            "Selected": "8bd450",
+            "NotSelected": "c9eaf2"
+        },
+        "Graph": {
+            "Tangent": "527d91"
+        },
+        "SubMenu": {
+            "Background": "f4fcff",
+            "Border": "bdeaf0",
+            "Text": "527d91"
+        },
+        "Toolbox": {
+            "HeaderBackground": "168aad",
+            "HeaderText": "ffffff",
+            "HeaderBorder": "087e8b",
+            "Background": "e7f7fb"
+        },
+        "List": {
+            "CellBackground": "ffffff",
+            "CellBackgroundSelected": "bdeaf0",
+            "CellBorder": "bdeaf0"
+        },
+        "Button": {
+            "Background": "ffffff",
+            "BackgroundSelected": "bdeaf0",
+            "BackgroundSelectedHighContrast": "8bd450",
+            "Border": "55a8b8",
+            "RowBorder": "91d7e3",
+            "BorderOut": "dff5f7",
+            "Shadow": "91d7e3",
+            "Text": "16425b"
+        },
+        "Tab": {
+            "Background": "087e8b",
+            "BackgroundSelected": "bdeaf0",
+            "BackgroundActive": "ffffff",
+            "BackgroundSelectedAndActive": "8bd450",
+            "Text": "ffffff",
+            "TextActive": "16425b"
+        },
+        "SubTab": {
+            "Background": "ffffff",
+            "BackgroundSelected": "bdeaf0",
+            "Text": "16425b"
+        },
+        "Banner": {
+            "FirstBackground": "168aad",
+            "FirstBorder": "168aad",
+            "FirstText": "ffffff",
+            "FirstVariantBackground": "087e8b",
+            "FirstVariantBorder": "087e8b",
+            "FirstVariantText": "ffffff",
+            "SecondBackground": "55b8a9",
+            "SecondBorder": "55b8a9",
+            "SecondText": "ffffff"
+        },
+        "Home": {
+            "Background": "e7f7fb",
+            "CellBackground": "ffffff",
+            "CellBackgroundActive": "8bd450",
+            "CellText": "16425b",
+            "CellTextActive": "ffffff",
+            "CellTextExternal": "087e8b",
+            "CellTextExternalActive": "ffffff"
+        },
+        "Atom": {
+            "Unknown": "d8f0f3",
+            "Text": "16425b",
+            "AlkaliMetal": "f4a261",
+            "AlkaliEarthMetal": "e9c46a",
+            "Lanthanide": "8bd450",
+            "Actinide": "55b8a9",
+            "TransitionMetal": "7bc8e5",
+            "PostTransitionMetal": "f28f6b",
+            "Metalloid": "f4d35e",
+            "Halogen": "70a9e8",
+            "ReactiveNonmetal": "b8d96d",
+            "NobleGas": "8ed1e8",
+            "TableLines": "527d91",
+            "Highlight": "087e8b",
+            "Background": "c9eaf2"
+        }
+    }
+}
